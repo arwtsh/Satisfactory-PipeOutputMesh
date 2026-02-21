@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0.0",
 	"FriendlyName": "Lib_PipeOutputMesh",
-	"Description": "Adds a standalone Pipe Output mesh to attach to buildables.",
+	"Description": "Adds a Pipe Output mesh to attach to buildables as a seperate component.",
 	"Category": "Modding",
 	"CreatedBy": "arwtsh",
 	"CreatedByURL": "https://portfolio.jjasundry.com/",
